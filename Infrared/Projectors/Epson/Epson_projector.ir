@@ -1,181 +1,181 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: On_projector
+name: ON
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 90 6F 00 00
 # 
-name: Off_projector
+name: OFF
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 90 6F 00 00
 # 
-name: Freeze
+name: FREEZE
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 92 6D 00 00
 # 
-name: +volume
+name: Volume +
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 98 67 00 00
 # 
-name: -volume
+name: Volume -
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 99 66 00 00
 # 
-name: Up
+name: UP
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: B0 4F 00 00
 # 
-name: Down
+name: DOWN
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: B2 4D 00 00
 # 
-name: Left
+name: LEFT
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: B3 4C 00 00
 # 
-name: Right
+name: RIGHT
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: B1 4E 00 00
 # 
-name: Click
+name: CLICK
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 85 7A 00 00
 # 
-name: Color_mode
+name: COLOR_MODE
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8F 70 00 00
 # 
-name: +zoom
+name: ZOOM +
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 88 77 00 00
 # 
-name: -zoom
+name: ZOOM -
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 89 76 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 93 6C 00 00
 # 
-name: Menu
+name: MENU
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 9A 65 00 00
 # 
-name: Help
+name: HELP
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 95 6A 00 00
 # 
-name: Esc
+name: ESCAPE
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 84 7B 00 00
 # 
-name: Source_search
+name: SOURCE_SEARCH
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8C 73 00 00
 # 
-name: Computer
+name: COMPUTER
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 94 6B 00 00
 # 
-name: Video
+name: VIDEO
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 70 8F 00 00
 # 
-name: Usb
+name: USB
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 76 89 00 00
 # 
-name: Lan
+name: LAN
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 74 8B 00 00
 # 
-name: Mhl_menu
+name: MHL_MENU
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 23 DC 00 00
 # 
-name: Auto
+name: AUTO
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 9E 61 00 00
 # 
-name: Aspect
+name: ASPECT
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 41 BE 00 00
 # 
-name: Pen_mode
+name: PEN_MODE
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8A 75 00 00
 # 
-name: Page_up
+name: PAGE_UP
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 86 79 00 00
 # 
-name: Page_down
+name: PAGE_DOWN
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 87 78 00 00
 # 
-name: Pointer
+name: POINTER
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 9B 64 00 00
 # 
-name: User
+name: USER
 type: parsed
 protocol: NECext
 address: 83 55 00 00
